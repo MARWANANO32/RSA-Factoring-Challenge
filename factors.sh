@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/python3
 # Factorize as many numbers as possible into a product of two smaller numbers.
 
 while IFS= read -r LINE
